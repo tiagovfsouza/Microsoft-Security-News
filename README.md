@@ -2,5 +2,7 @@
 
 GitHub Pages archive for daily Microsoft Security blog digests.
 
-Archive: https://tiagovfsouza.github.io/Microsoft-Security-News/Microsoft%20Security/
+## View the site
 
+- GitHub Pages site: https://tiagovfsouza.github.io/Microsoft-Security-News/
+- Digest archive: https://tiagovfsouza.github.io/Microsoft-Security-News/Microsoft%20Security/
