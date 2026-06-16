@@ -1,4 +1,6 @@
-# Microsoft Security Blog Digests
+# Microsoft Security News
 
-GitHub Pages-ready archive. Publish this repository as a GitHub Pages site and browse daily digests at /Microsoft%20Security/.
+GitHub Pages archive for daily Microsoft Security blog digests.
+
+Archive: https://tiagovfsouza.github.io/Microsoft-Security-News/Microsoft%20Security/
 
